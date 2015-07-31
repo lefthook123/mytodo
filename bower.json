@@ -1,5 +1,5 @@
 {
-  "name": "mytodo",
+  "name": "y",
   "version": "0.0.0",
   "dependencies": {
     "angular": "^1.3.0",
@@ -15,5 +15,17 @@
     "angular-mocks": "^1.3.0"
   },
   "appPath": "app",
-  "moduleName": "mytodoApp"
+  "moduleName": "mytodoApp",
+  "homepage": "https://github.com/lefthook123/mytodo",
+  "authors": [
+    "lefthook123 <sf.jackwang@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
